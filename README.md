@@ -12,6 +12,7 @@ uv init .
 ```python
  uv add fastmcp
  ```
+ NOTE: In similar way only other requirements must be installed **Not using 'pip install'**
 
  #### AFter completing the setup
  **to run the server**
