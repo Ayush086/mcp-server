@@ -1,4 +1,0 @@
-uv
-aiosqlite
-tempfile
-asyncio
